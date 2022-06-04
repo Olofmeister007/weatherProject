@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "weatherproject-master",
+  "description": "With the help of this project you can be able to view the current weather and temperature of a city which is given as an input by the user. <br> It makes use of an OpenWeatherMap API to collect the data. <br> Use the following packages to run this project. <br>",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danyal",
+  "license": "ISC"
+}
